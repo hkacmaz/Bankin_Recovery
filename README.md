@@ -1,4 +1,4 @@
-# Bankin_Recovery - Regression discontinuity
+# Bankin Recovery - Regression Discontinuity
 
 After a dept has been legally declared "uncollectible" by a bank, the account is considered to be "charged-off".  
 But that doesn't mean the bank simply walks away from the dept. They still want to collect some fo the money they are owed. 
